@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Como instalar
 
-Baixe ou clone este repositório usando git clone https://github.com/jeffdrodrigues/afe-trabalho-final.git;
+Baixe ou clone este repositório usando git clone https://github.com/jeffdrodrigues/puc-afe-trab-final.git;
 Dentro do diretório, instale as dependências usando npm install.
 
 ## Development server
