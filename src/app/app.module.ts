@@ -14,6 +14,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
+import { TopMenuComponent } from './top-menu/top-menu.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { MatSortModule } from '@angular/material/sort';
     CovidCasesComponent,
     CovidDeathsComponent,
     CovidRecoveredComponent,
-    CountryComponent
+    CountryComponent,
+    TopMenuComponent
   ],
   imports: [
     BrowserModule,
